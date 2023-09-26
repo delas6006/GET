@@ -39,4 +39,3 @@ Response
   	}
    }
 }
-![image](https://github.com/delas6006/GET/assets/109095507/37fe724f-ffcc-4926-8b7d-e131a1443b13)
